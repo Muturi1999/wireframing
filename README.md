@@ -67,3 +67,25 @@ Wireframes can vary in fidelity depending on their level of detail and purpose i
 
 - *Example Use Case*: Before development begins or during client presentations.
 
+##  Wireframing Tools
+
+A variety of tools are available for creating wireframes, ranging from simple sketching apps to professional design platforms. Here are some of the most popular:
+
+- **Figma**
+- Adobe XD
+- Balsamiq
+- Sketch (macOS)
+- Wireframe.cc
+- Lucidchart
+
+###  Recommended Tool: Figma
+
+**Figma** is a cloud-based design and prototyping tool that allows users to create, share, and collaborate on wireframes and other design assets in real time.
+
+####  Key Features:
+
+- **Collaborative Design**: Multiple team members can work on the same file simultaneously.
+- **Component System**: Reusable design elements streamline consistency.
+- **Cross-Platform**: Works directly in the browser or via desktop app.
+- **Interactive Prototyping**: Allows linking between frames to simulate navigation.
+- **Version History**: Easily review and restore previous iterations.
