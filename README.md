@@ -40,3 +40,30 @@ Represents interactive elements like buttons, search fields, sliders, and forms,
 -  *Example:* A wireframe might show a login form with input fields for "Email" and "Password," along with a "Submit" button to suggest user interaction.
 
 Each of these elements ensures the wireframe remains a practical guide for developing intuitive and efficient user interfaces.
+
+
+##  Types of Wireframes
+
+Wireframes can vary in fidelity depending on their level of detail and purpose in the design process.
+
+### 🔹 Low-Fidelity Wireframes
+
+- **Purpose**: Used in early stages of the design process to quickly communicate layout and structure.
+- **Appearance**: Simple sketches or black-and-white digital mockups using boxes and lines to represent content and functionality.
+- **Advantages**:
+  - Fast to create
+  - Encourages feedback on structure, not aesthetics
+  - Easy to modify
+
+-  *Example Use Case*: Brainstorming sessions, stakeholder alignment, or early UX reviews.
+
+### 🔸 High-Fidelity Wireframes
+
+- **Purpose**: Used in later stages to communicate detailed design decisions and layout specifications.
+- **Appearance**: Digitally polished, often including accurate spacing, placeholder text, detailed icons, and annotations.
+- **Advantages**:
+  - Approaches the look and behavior of the final product
+  - Useful for developer handoff and usability testing
+
+- *Example Use Case*: Before development begins or during client presentations.
+
